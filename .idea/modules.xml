@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aula ADA/Aula ADA.iml" filepath="$PROJECT_DIR$/Aula ADA/Aula ADA.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Aulas de JAVA.iml" filepath="$PROJECT_DIR$/.idea/Aulas de JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PDO/PDO.iml" filepath="$PROJECT_DIR$/PDO/PDO.iml" />
     </modules>
   </component>
 </project>
