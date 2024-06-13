@@ -1,12 +1,27 @@
 package Animais;
 
 public class Cachorro {
-    protected String nome;
-    public String cor;
-    public int altura;
-    public double peso;
-    public int tamanhoDoRabo;
-    public String estadoDeEspirito;
+    private String nome;
+
+    private String cor;
+
+    private int altura;
+
+    private double peso;
+
+    private int tamanhoDoRabo;
+
+    private String estadoDeEspirito;
+
+    public String getNome() {
+
+        return this.nome;
+    }
+
+
+
+
+
 
 
     public void comer(){}
